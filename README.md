@@ -26,7 +26,7 @@
 
 # Установка
 
-- git clone https://github.com/ваш-репозиторий.git
+- git clone https://github.com/vlasovandy85/RiotTest
 - npm install
 - npm start
 
